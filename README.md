@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hola, soy Awkvz
 
-<!--
-**awkvz/awkvz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador apasionado con experiencia en **PHP**, con conocimientos basicos en **JavaScript** y **Java**. Aquí puedes encontrar mis proyectos y contribuciones.
 
-Here are some ideas to get you started:
+## 🚀 Lenguajes que manejo
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estadísticas
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=awkvz&show_icons=true&theme=radical)
+
+## 🌐 Contacto
+Discord: **awkvz**
+
