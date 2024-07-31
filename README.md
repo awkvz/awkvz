@@ -8,7 +8,7 @@ Soy un desarrollador apasionado con experiencia en **PHP**, con conocimientos ba
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) 
 
 ## 📊 Estadísticas
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=awkvz&show_icons=true&theme=radical)
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=awkvz&theme=chartreuse-dark)
 
 ## 🌐 Contacto
 Discord: **awkvz**
